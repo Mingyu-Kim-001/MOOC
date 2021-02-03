@@ -1,5 +1,5 @@
 # MOOC
-* MOOCs taken to study CS basics
+Online courses that I've taken to study CS basics.
 
 1. [KOCW OS]
 
